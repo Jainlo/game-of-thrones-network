@@ -1,2 +1,4 @@
-# game-of-thrones-network
-source code for game of thrones network graph to visualize and analyze the relationships between characters
+# Game of Thrones Graph
+## About
+## Data
+Data is crawled from <a href="https://gameofthrones.fandom.com/wiki/Game_of_Thrones_Wiki">fandom.com</a>
